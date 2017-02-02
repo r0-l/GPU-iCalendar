@@ -1,5 +1,5 @@
 # GPU-iCalendar
-GPU-iCalendar est un programme permettant de concaténer plusieurs agendas au format iCalendar en un seul. Ce programme est initialement destiné aux étudiants de l'IUT de La Rochelle utilisant [GPU](https://www.gpu-lr.fr/).
+GPU-iCalendar est un programme permettant de concaténer plusieurs agendas au format iCalendar en un seul fichier. Ce programme est initialement destiné aux étudiants de l'IUT de La Rochelle utilisant [GPU](https://www.gpu-lr.fr/).
 
 # Compilation
 GPU-iCalendar requiert [libcurl](https://curl.haxx.se/libcurl/)
